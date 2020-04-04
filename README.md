@@ -1,5 +1,5 @@
-### Date created
-Project Creation Date : 4th April 2020
+### Date created :
+4th April 2020
 
  
 
@@ -14,10 +14,9 @@ In this project, you will make use of Python to explore data related to bike sha
  
 
 ### Files used
-You will need to write a Python script. To help guide your work in this project, a template with helper code and comments is provided in a bikeshare.py file, and you will do your scripting in there also. You will need the three city dataset files too:
+You will need the three city dataset files too and Python Script file
 
- 
-
+- bikeshare_2.py
 - chicago.csv
 - new_york_city.csv
 - washington.csv
