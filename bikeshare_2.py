@@ -140,7 +140,17 @@ def station_stats(df):
 
 
 def trip_duration_stats(df):
-    """Displays statistics on the total and average trip duration."""
+    '''This function returns the total trip duration and average trip duration
+
+ 
+
+    Args:
+    df: dataframe of bikeshare data
+    Returns:
+    (list) with two str values:
+        First value: String that says the total trip duration in years, days, hours, minutes, and seconds
+        Second value: String that says the average trip duration in hours, minutes, and seconds
+    '''
 
     print('\nCalculating Trip Duration...\n')
     start_time = time.time()
